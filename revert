@@ -1,0 +1,35 @@
+[33mcommit 730d3a214a9fbcf953f9322f3682153c7c153d9a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HectorGverdin <hectorgverdin@gmail.com>
+Date:   Fri Apr 22 23:21:06 2022 -0700
+
+    Added pizza recipe, Added pizza img and added home
+
+[33mcommit 4d736d1527d15d3fe6113f2ee30bdee50e48c1e2[m
+Author: HectorGverdin <hectorgverdin@gmail.com>
+Date:   Fri Apr 22 23:08:14 2022 -0700
+
+    Completed lasagna recipe and Added img to repo
+
+[33mcommit 57a577cf746aa8df5e6419677b6636791b194d3d[m
+Author: HectorGverdin <hectorgverdin@gmail.com>
+Date:   Fri Apr 22 22:42:52 2022 -0700
+
+    Added lasagna recipe
+
+[33mcommit a6d613914f37d0de6e4fcf1bd0ec4a926a270bf9[m
+Author: HectorGverdin <hectorgverdin@gmail.com>
+Date:   Fri Apr 22 22:40:28 2022 -0700
+
+    Added the first recipe
+
+[33mcommit dd17d30619b946784dce03713fff2fdfbb8c1104[m
+Author: HectorGverdin <hectorgverdin@gmail.com>
+Date:   Fri Apr 22 22:24:04 2022 -0700
+
+    Just starting the code
+
+[33mcommit 15d715188c1a79748e7662154b285a69da01fa88[m
+Author: HectorGverdin <104117249+HectorGverdin@users.noreply.github.com>
+Date:   Fri Apr 22 22:18:26 2022 -0700
+
+    Initial commit
